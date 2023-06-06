@@ -2,7 +2,7 @@ from telebot import types
 import telebot
 import os
 
-token = "5795503325:AAFehhPLtER0_UfDKn68BiM0VE305D123TE"
+token = ""
 bot = telebot.TeleBot(token)
 mounth = ''
 
