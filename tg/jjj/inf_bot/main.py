@@ -42,7 +42,6 @@ def create_markup(mounth):
     return markup1
 
 
-# Создание начальной клавиатуры
 arr = ["Сентябрь", "Октябрь", "Ноябрь", "Декабрь", "Январь", "Февраль", "Март", "Апрель", "Май", "Июнь"]
 markup = types.ReplyKeyboardMarkup(one_time_keyboard=True)
 mar_files = os.listdir()
