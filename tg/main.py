@@ -2,9 +2,9 @@ import paramiko
 import time
 import shutil
 
-host = '192.168.50.41'
-user = 'pi'
-secret = 'pi'
+host = ''
+user = ''
+secret = ''
 port = 22
 
 
